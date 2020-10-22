@@ -1,0 +1,11 @@
+<!Doctype html>
+<html>
+<title>Table assignment </title>
+<head></head>
+<table>
+<tr colspan="2">HTML Table</tr>
+<th>Cell1</th>
+<th>Cell2</th>
+ </tr>
+ </table>
+ </html>
